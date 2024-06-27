@@ -1,0 +1,11 @@
+{
+    "templates": [
+        {
+            "name": "TypeScript Interface",
+            "inputFile": "docdriven/input/basic-interface.ts",
+            "outputDirectory": "docdriven/output",
+            "type": "Endpoints",
+            "split": true
+        }
+    ]
+}
